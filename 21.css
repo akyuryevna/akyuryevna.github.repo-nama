@@ -53,7 +53,6 @@ body {
     margin-top: 0;
   }
  
-
 nav{
     float:right;
 }
@@ -64,6 +63,7 @@ nav ul{
 }
 nav li{
     display:inline-block;
+    color: write;
 }
 nav a {
     text-decoration: none;
